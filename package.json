@@ -20,6 +20,11 @@
   "dependencies": {
     "toastr": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Balachandar-K/keyboard-restrict.git"
+  },
+  "homepage": "https://github.com/Balachandar-K/keyboard-restrict",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
