@@ -1,6 +1,6 @@
 {
   "name": "keyboard-restrict",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Restrict the input from the keyboard",
   "scripts": {
     "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir ."
@@ -22,7 +22,7 @@
   "dependencies": {
     "toastr": "^2.1.4"
   },
-  "bugs" : {
+  "bugs": {
     "url": "https://github.com/Balachandar-K/keyboard-restrict/issues"
   },
   "repository": {
