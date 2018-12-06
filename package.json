@@ -1,0 +1,28 @@
+{
+  "name": "keyboard-restrict",
+  "version": "1.0.1",
+  "description": "Restrict the input from the keyboard",
+  "scripts": {
+    "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir ."
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "main": "index.js",
+  "keywords": [
+    "keyboard",
+    "restriction"
+  ],
+  "author": "Balachandar K",
+  "license": "ISC",
+  "dependencies": {
+    "toastr": "^2.1.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
