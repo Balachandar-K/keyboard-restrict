@@ -12,14 +12,24 @@
   },
   "main": "index.js",
   "keywords": [
-    "keyboard",
-    "restriction"
+    "keyboard restriction",
+    "restrict keyboard access",
+    "disable key in javascript",
+    "disable key"
   ],
   "author": "Balachandar K",
   "license": "ISC",
   "dependencies": {
     "toastr": "^2.1.4"
   },
+  "bugs" : {
+    "url": "https://github.com/Balachandar-K/keyboard-restrict/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Balachandar-K/keyboard-restrict.git"
+  },
+  "homepage": "https://github.com/Balachandar-K/keyboard-restrict",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
